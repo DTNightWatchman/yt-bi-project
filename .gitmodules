@@ -1,3 +1,6 @@
 [submodule "ytbi-frontend"]
 	path = ytbi-frontend
 	url = https://github.com/DTNightWatchman/ytbi-frontend.git
+[submodule "ytbi-backend"]
+	path = ytbi-backend
+	url = https://github.com/DTNightWatchman/ytbi-backend.git
